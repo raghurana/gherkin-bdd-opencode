@@ -1,0 +1,15 @@
+{
+  "singleQuote": true,
+  "semi": true,
+  "printWidth": 120,
+  "arrowParens": "always",
+  "trailingComma": "es5",
+  "endOfLine": "auto",
+  "bracketSpacing": true,
+  "sortingMethod": "lineLength",
+  "sortingOrder": "ascending",
+  "stripNewlines": true,
+  "plugins": [
+    "prettier-plugin-sort-imports"
+  ]
+}
